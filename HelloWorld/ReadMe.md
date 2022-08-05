@@ -26,3 +26,5 @@ Ou simplesmente
 ```cli
 cargo run
 ```
+
+Existe como checar se o codigo ta compilavel com `cargo check`
