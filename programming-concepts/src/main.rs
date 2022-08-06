@@ -207,4 +207,5 @@ fn main() {
     loop_inside_loop();
     for_loop();
     while_loop();
+    println!("{:?}", (1..5));
 }
