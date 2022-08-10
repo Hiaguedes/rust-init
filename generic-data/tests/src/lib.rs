@@ -1,5 +1,6 @@
 pub mod shapes;
 pub mod guess;
+pub mod guess_test;
 
 mod math {
     fn add(x: i32, y: i32) -> i32 {
